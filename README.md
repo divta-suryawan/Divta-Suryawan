@@ -1,4 +1,5 @@
-# Hi there, I'm I Ketut Divta Suryawan  
+# Hi there, I'm I Ketut Divta Suryawan
+
 <p align="center">
 <a href=#><img src="contributions.svg"></a>
   </p>
@@ -8,6 +9,7 @@
 </p>
 
 # 📊 GitHub Stats:
+
 <p align="left">
 <a href="https://github.com/Divta-Suryawan">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Divta-Suryawan&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -15,10 +17,6 @@
 </a>
 </p>
 
-
-
-
-[![website](./img/whatsapp.)](https://wa.me/+6282290333669?text=Hello%20Rizki)
-
+[![website](./Instagram_logo_2022.svg.webp)](https://www.instagram.com/divta_div10/)
 
 [webdev]: https://github.com/Divta-Suryawan
