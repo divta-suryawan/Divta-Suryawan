@@ -16,9 +16,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Divta-Suryawan&layout=compact&langs_count=8&theme=radical"/>
 </a>
 </p>
-<div align='left' style="width:50px;height:50px;">
-[![website](./Instagram_logo_2022.svg.webp)](https://www.instagram.com/divta_div10/)
-</div>
 
+[![website](./img/whatsapp.)](https://wa.me/+6287810216949?text=Hello%20Divta)
 
 [webdev]: https://github.com/Divta-Suryawan
