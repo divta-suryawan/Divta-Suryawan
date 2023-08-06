@@ -11,8 +11,8 @@
 
 <p align="left">
 <a href="https://github.com/Divta-Suryawan">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Divta-Suryawan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Divta-Suryawan&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Divta-Suryawan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Divta-Suryawan&layout=compact&langs_count=8&theme=dark"/>
 </a>
 </p>
 
