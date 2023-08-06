@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm I Ketut Divta Suryawan</h1>
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
-
 <img align="center" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <p align="center"> 
   Visitor count<br>
@@ -20,3 +18,4 @@
 <p align="left">
 <a href="https://instagram.com/divta_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="divta_" height="30" width="40" /></a>
 </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divta-suryawan&" alt="divta-suryawan" /></p>
