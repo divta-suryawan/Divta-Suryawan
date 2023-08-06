@@ -1,8 +1,4 @@
 <h1 align="center">Hi 👋, I'm I Ketut Divta Suryawan</h1>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/divta_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="divta_" height="30" width="40" /></a>
-</p>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Divta-Suryawan/count.svg" />
@@ -17,6 +13,7 @@
 </a>
 </p>
 
-[![website](./img/whatsapp.)](https://wa.me/+6287810216949?text=Hello%20Divta)
-
-[webdev]: https://github.com/Divta-Suryawan
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/divta_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="divta_" height="30" width="40" /></a>
+</p>
