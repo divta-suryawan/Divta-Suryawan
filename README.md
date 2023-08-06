@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm I Ketut Divta Suryawan</h1>
-<img align="center" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+👋+I'm+I+Ketut+Divta+Suryawan" alt="Typing SVG" /></a>
+</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Divta-Suryawan/count.svg" />
@@ -18,4 +24,3 @@
 <p align="left">
 <a href="https://instagram.com/divta_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="divta_" height="30" width="40" /></a>
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divta-suryawan&" alt="divta-suryawan" /></p>
