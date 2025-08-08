@@ -1,8 +1,7 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+Ketut+Divta+Suryawan" alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+Ketut+Divta+Suryawan" alt="Typing SVG" /></a>
 </div>
 <a href=#><img src="contributions.svg"></a>
-  </p>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/divta-suryawan/count.svg" />
