@@ -5,7 +5,7 @@
   </p>
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Divta-Suryawan/count.svg" />
+  <img src="https://profile-counter.glitch.me/divta-suryawan/count.svg" />
 </p>
 
 # 📊 GitHub Stats:
@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://github.com/Divta-Suryawan">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Divta-Suryawan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Divta-Suryawan&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=divta-suryawan&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
 </p>
 
